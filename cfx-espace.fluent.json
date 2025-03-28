@@ -1,6 +1,6 @@
 {
   "name": "Fluent Default Conflux Espace List",
-  "timestamp": "2022-04-26T09:17:12.197Z",
+  "timestamp": "2025-03-28T09:37:14.475Z",
   "version": {
     "major": 0,
     "minor": 1,
@@ -57,6 +57,14 @@
       "symbol": "WBTC",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x55ec3bf08a1d4c812cae1219216053a31e8bffc9",
+      "name": "Worldwide USD",
+      "symbol": "WUSD",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x55ec3bf08a1d4c812cae1219216053a31e8bffc9.png"
     }
   ]
 }
